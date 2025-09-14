@@ -8,6 +8,7 @@ print(type(name))
 
 
 cgpa=8.64
+print(cgpa)
 print(type(cgpa))
 
 
